@@ -5,6 +5,20 @@
     padding: 0px;
     font-family: 'Poppins', sans-serif;
 }
+
+@keyframes header_dance {
+    0%{
+       transform: translate(300px, 0px);
+    }
+    100%{
+        transform: translate(0px, 0px);
+    }
+}
+/* .header_image{
+
+} */
+
+
 /* Global Utilities */
 hr {
     width: 60%;
@@ -65,6 +79,7 @@ button.btn {
 .header_image{
     width: 50%;
     display: flex;
+    animation: header_dance 1s ease-in-out 0.2s 1 alternate;   
 }
 .header_image img {
     width: 93%;
