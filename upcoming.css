@@ -1,0 +1,27 @@
+.single_match {
+    border: 1px solid;
+    height: 25vh;
+    padding: 25px;
+    padding-bottom: 0px;
+}
+.single_match_imgage{
+    display: flex;
+    width: 20%;
+}
+
+.single_match_imgage p {
+    /* margin-top: 17px; */
+    padding: 17px;
+    font-weight: 800;
+}
+
+.single_match_info h2 {
+    margin-top: 23px;
+    font-size: 20px;
+    margin-left: 15px;
+}
+.single_match_info p {
+    margin-top: 23px;
+    font-size: 16px;
+    margin-left: 30px;
+}
