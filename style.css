@@ -35,7 +35,7 @@ header{
     margin-left: 90px;
     line-height: 80px;
     color: white;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .header_info p {
     margin-left: 90px;
@@ -91,7 +91,7 @@ button.btn {
 .upcomming_match{
     background-color: black;
     width: 30%;
-    height: 42vh;
+    height: 44vh;
     border-radius: 10px;
 }
 aside.upcomming_match a {
